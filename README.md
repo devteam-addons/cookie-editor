@@ -13,24 +13,19 @@ Cookie Editor Plus is available on Firefox for Android and Safari for iOS, with 
 
 ## Installation
 ### Install on Google Chrome
-Find this extension on the [Chrome Web Store](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?utm_campaign=github).  
-[![Chrome Web Store](readme/get-chrome.png)](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?utm_campaign=github)
+Find this extension on the [Chrome Web Store](https://microsoftedge.microsoft.com/addons/detail/cookie-editor-plus/nbmajjcfigmlcnikhnfhhicidleefhpp).  
+[![Chrome Web Store](readme/get-chrome.png)](https://microsoftedge.microsoft.com/addons/detail/cookie-editor-plus/nbmajjcfigmlcnikhnfhhicidleefhpp)
 
 ### Install on Firefox
-Find this extension on the [Firefox Add-ons site](https://addons.mozilla.org/addon/cookie-editor?utm_campaign=external-github-readme).  
-[![Firefox Add-ons](readme/get-firefox.webp)](https://addons.mozilla.org/addon/cookie-editor?utm_campaign=external-github-readme)
-
-### Install on Safari
-Cookie Editor Plus is available for both Mac and iOS. It has been tested on Mac, iPhone and iPad.  
-Find this extension on the [App Store](https://apps.apple.com/app/apple-store/id6446215341?pt=126143671&ct=github&mt=8).  
-[![Apple App Store](readme/get-safari-mac.svg)](https://apps.apple.com/app/apple-store/id6446215341?pt=126143671&ct=github&mt=8)
+Find this extension on the [Firefox Add-ons site](https://microsoftedge.microsoft.com/addons/detail/cookie-editor-plus/nbmajjcfigmlcnikhnfhhicidleefhpp).  
+[![Firefox Add-ons](readme/get-firefox.webp)](https://microsoftedge.microsoft.com/addons/detail/cookie-editor-plus/nbmajjcfigmlcnikhnfhhicidleefhpp)
 
 ### Install on Microsoft Edge
-Find this extension on the [Microsoft Store](#).
+Find this extension on the [Microsoft Store](https://microsoftedge.microsoft.com/addons/detail/cookie-editor-plus/nbmajjcfigmlcnikhnfhhicidleefhpp).
 
 ### Install on Opera
-Find this extension on the [Opera Extensions site](https://addons.opera.com/en/extensions/details/cookie-editor-2/).  
-[![Opera add-ons](readme/get-opera.png )](https://addons.opera.com/en/extensions/details/cookie-editor-2/)
+Find this extension on the [Opera Extensions site](https://microsoftedge.microsoft.com/addons/detail/cookie-editor-plus/nbmajjcfigmlcnikhnfhhicidleefhpp).  
+[![Opera add-ons](readme/get-opera.png )](https://microsoftedge.microsoft.com/addons/detail/cookie-editor-plus/nbmajjcfigmlcnikhnfhhicidleefhpp)
 
 ## Feature Suggestions or Bug Reports
 To submit a feature suggestion or file a bug report, please [create a new issue here](https://github.com/cyprusman6868/cookie-editor/issues).
